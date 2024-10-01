@@ -8,7 +8,7 @@ Ola! sou o João, eu amo criar coisas e estudo tecnologia desde que me conheço 
 Eu estudo principalmente o desenvolvimento web e de softwares como programas simples para a resolução de um problema até algo como um jogo ou um aplicativo mobile 📚😪🛠
 
 - 🦗 Garfanhoto do [CursoEmVideo](https://www.cursoemvideo.com/)
-- 🎮 Paixão por criar jogos
+- 🎮 Gosto de criar jogos
 - 🤕 Estudante de Desenvolvimento de Softwares
 
 ---
