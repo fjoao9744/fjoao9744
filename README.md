@@ -20,5 +20,6 @@ Eu estudo principalmente o desenvolvimento web e de softwares como programas sim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Cpp" alt="Cpp" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
           
- 
 </div>
+
+![João Fernando Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
