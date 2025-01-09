@@ -5,17 +5,19 @@
 
 
 Ola! sou o João, eu amo criar coisas e estudo tecnologia desde que me conheço como pessoa 😅
-Eu estudo principalmente o desenvolvimento web e de softwares como programas simples para a resolução de um problema até algo como um jogo ou um aplicativo mobile 📚😪🛠
+Eu estudo principalmente o desenvolvimento web e de softwares. Programo principalmente resoluções de problemas(via terminal), aplicações web e desktop 📚😪🛠
 
 - 🦗 Garfanhoto do [CursoEmVideo](https://www.cursoemvideo.com/)
+- 🐍 Aluno da [Pythonando](https://pythonando.com.br/)
+-  ❗ Impressionador da [Hashtag](https://www.hashtagtreinamentos.com/)
 - 🎮 Gosto de criar jogos
 - 🤕 Estudante de Desenvolvimento de Softwares
 
 ---
 <!--https://github.com/devicons/devicon/tree/master/icons-->
 <div>
- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
