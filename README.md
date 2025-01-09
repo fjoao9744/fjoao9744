@@ -9,7 +9,7 @@ Eu estudo principalmente o desenvolvimento web e de softwares. Programo principa
 
 - 🦗 Garfanhoto do [CursoEmVideo](https://www.cursoemvideo.com/)
 - 🐍 Aluno da [Pythonando](https://pythonando.com.br/)
--  ❗ Impressionador da [Hashtag](https://www.hashtagtreinamentos.com/)
+-  ❗ Impressionador da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 - 🎮 Gosto de criar jogos
 - 🤕 Estudante de Desenvolvimento de Softwares
 
