@@ -11,6 +11,7 @@ Eu estudo principalmente o desenvolvimento web e de softwares. Programo principa
 - 🐍 Aluno da [Pythonando](https://pythonando.com.br/)
 -  ❗ Impressionador da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
 - 🎮 Gosto de criar jogos
+- 🕸 Programador Web
 - 🤕 Estudante de Desenvolvimento de Softwares
 
 ---
